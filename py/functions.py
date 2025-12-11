@@ -14,4 +14,7 @@ import torch
 import torch.nn as nn 
 import torch.optim as optim
 from torch.utils.data import TensorDataset, DataLoader, Dataset 
-
+import os
+def load_dataset(filename ='space-missions-dataset',data_dir = 'data'):
+  path = os.path.join(data_dir,filename)
+  return pd.read_csv(path)
