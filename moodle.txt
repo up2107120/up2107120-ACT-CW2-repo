@@ -1,0 +1,6 @@
+UP2107120
+https://github.com/up2107120/up2107120-ACT-CW2-repo
+Dataset: space_missions_dataset.csv, (Kaggle = https://www.kaggle.com/datasets/sameerk2004/space-missions-dataset)
+Reaserch for Q3: How does data augmentation affect the performance of a neural network?
+Date of last commit:
+Last Commit Message: 
